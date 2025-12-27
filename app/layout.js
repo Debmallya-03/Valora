@@ -4,7 +4,7 @@ import "./globals.css";
 
 
 export const metadata = {
-  title: "Smart Tracker Agent",
+  title: "Valora",
   description: "Drops alert!!",
 };
 
