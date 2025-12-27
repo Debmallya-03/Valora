@@ -6,7 +6,11 @@ import "./globals.css";
 export const metadata = {
   title: "Valora",
   description: "Drops alert!!",
+   verification: {
+    google: "bOdJyJJpTxBhW1markazU08SEWm_OHWMsgXNLXOAi8Q", 
+  },
 };
+
 
 export default function RootLayout({ children }) {
   return (
